@@ -1,7 +1,7 @@
 const nameGirl = 'Vương Ngọc Hương';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Giáng sinh vui vẻ';
-const titleCard = 'Tặng người ấy';
+const titleCard = 'Gửi đến Hương';
 const contentCard = 'Chúc bạn có một giáng sinh ấm áp vui vẻ tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với bạn trong hôm nay và cả những ngày sau';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
